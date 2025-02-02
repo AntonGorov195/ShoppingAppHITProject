@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362116488864",
+    "project_id": "uniproject-3bbfc",
+    "storage_bucket": "uniproject-3bbfc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362116488864:android:3e4327fa1eecb9c8e1f3c5",
+        "android_client_info": {
+          "package_name": "com.example.shoppingapphitproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN7hfZjI-vJXDM5vWiZfK9mHxNhdI8H-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
