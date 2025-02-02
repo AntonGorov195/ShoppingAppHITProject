@@ -25,6 +25,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
+
     public FirebaseAuth mAuth; // ניהול אימות משתמשים
 
     @Override
